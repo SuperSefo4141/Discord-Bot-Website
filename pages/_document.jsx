@@ -15,7 +15,7 @@ class MyDocument extends Document {
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@PikachuBOT" />
-          <meta name="twitter:creator" content="@PikachuBOT" />
+          <meta name="twitter:creator" content="@MusicMaker" />
           <meta property="og:url" content="https://pikachu-bot.vercel.app" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="PikachuBOT" />
