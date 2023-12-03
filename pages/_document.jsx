@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="PikachuBOT eğlence için yapılmış ve güzel bir bottur,Bir de Türkçe!"
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image:alt" content="PikachuBOT" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
