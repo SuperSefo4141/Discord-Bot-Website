@@ -68,12 +68,6 @@ Vote PikachuBOT</a>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
-                </div>
-              </div>
-              <div>
-                <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
                   <p className="text-gray-500 line-clamp-4">With our best teammates, we provide the fastest response to anyone who needs help.</p>
                 </div>
@@ -90,7 +84,7 @@ Vote PikachuBOT</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with PikachuBOT, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/avatars/1173320415188365333/e168e0e8ab08f89595b860187d342dfb.png?size=100" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/avatars/1173320415188365333/e168e0e8ab08f89595b860187d342dfb.png?size=350" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
